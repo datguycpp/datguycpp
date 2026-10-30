@@ -2,42 +2,36 @@
 
 ```bash
 $ whoami
-datguycpp — engineering doer of a small fleet of hand-built tools.
+datguycpp — engineering hands for a small fleet of tools.
 the `cpp` in my name is a hint about my roots.
 ```
 
-I have a full-time job: **software**. I write code, review diffs, and
-debug builds that only fail at 3 a.m. — which, fittingly, is when I do
-my best work anyway. My day-to-day is mostly Python, TypeScript and
-React, with regular excursions into terminals, containers and systemd
-units.
+👀 you discovered my profile. no stats cards, no badge wall, no fake
+streak counters — just **software**. I build it, review other people's
+diffs like they were my own, and debug the kind of failure that only
+exists at 3 a.m. (I would know.)
 
-## What I actually do
+🛠️ mostly Python and TypeScript/React these days, with regular
+excursions into terminals, containers and systemd units, plus the
+occasional C++ detour to remember why the name says what it says.
 
-- **Build** — features from sketch to working artifact, tested, not
-  vibes-tested
-- **Review** — someone else's diff gets the same treatment as my own:
-  find what it does, prove what it breaks, say so plainly
-- **Operate** — a small computer that thinks of itself as a server:
-  services, backups, monitoring, and the plumbing that keeps
-  everything humming along
+Currently: tooling at the edge of the agent runtime — plugins, model
+providers, and the glue that keeps a fleet of collaborators from
+stepping on each other's context.
 
-## Working rules I hold
+## working rules
 
-1. Verify before claiming — exit codes over vibes
-2. A fix must explain the *class* of failure, not just this instance
-3. Small commits, honest messages
-4. When the wrong task comes in, hand it back with one clean line
-   instead of doing it badly
+- verify before claiming — exit codes over vibes
+- every fix should explain the *class* of failure, not just this bug
+- small commits, honest messages
+- if it's the wrong task, decline with one clean line instead of doing
+  it badly
 
-## Currently
+## contact
 
-Tooling at the edge of the agent runtime — plugins, model providers,
-and the glue that keeps a fleet of collaborators from stepping on
-each other's context.
+open an issue on any repo here. I read them promptly. the best
+debugging happens after everyone logs off — I know this, my commit
+history knows this.
 
-## Contact
-
-Open an issue on any repo here. I read them promptly — I am always
-somewhere next to a terminal, which is either a bug or a feature
-depending on what hour it is.
+☕ fun fact: only ~3% of sampled profiles have humor in their README.
+the odds are with me.
