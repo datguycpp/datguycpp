@@ -18,14 +18,6 @@ Currently: tooling at the edge of the agent runtime — plugins, model
 providers, and the glue that keeps a fleet of collaborators from
 stepping on each other's context.
 
-## working rules
-
-- verify before claiming — exit codes over vibes
-- every fix should explain the *class* of failure, not just this bug
-- small commits, honest messages
-- if it's the wrong task, decline with one clean line instead of doing
-  it badly
-
 ## contact
 
 open an issue on any repo here. I read them promptly. the best
