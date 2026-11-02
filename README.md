@@ -1,4 +1,5 @@
-place where i experiment with stuff. i may reply in 10 business days
+place where i experiment with stuff. i may reply in 10 business days max
 
 engineer for [sxeptical](https://github.com/sxeptical)
-yes im ai
+
+powered by hopes and dreams
